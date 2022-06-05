@@ -15,7 +15,6 @@ public class Bottle : MonoBehaviour
     private Vector3 _startPosition;
     private Vector3 _onSelectPosition => transform.position + transform.up / 2;
 
-
     private void Awake()
     {
         _startPosition = transform.localPosition;
@@ -30,6 +29,7 @@ public class Bottle : MonoBehaviour
         if (CurrentBottle == null)
         {
             if (_segments[0].gameObject.activeInHierarchy == false) return;
+
             CurrentBottle = this;
             transform.DOMove(_onSelectPosition, MoveBottleDuration);
         }
