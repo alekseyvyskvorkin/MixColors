@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2981779497927334718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2981779497927334716}
+  - component: {fileID: 2981779497927334717}
+  - component: {fileID: 2981779497927334715}
+  m_Layer: 0
+  m_Name: Skins
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2981779497927334716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2981779497927334718}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 428.54495, y: 454.57742, z: -0.44558716}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2981779497927334717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2981779497927334718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd942fd6225904e5f9d97519a2c33487, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magnetSkins:
+  - icon: {fileID: -684395152, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 6b894ec2e57ca42208ec13999dcd72ff, type: 2}
+    jelly: 0
+    background: 0
+    id: 0
+    connectClickSounds: []
+    openOrder: 0
+  - icon: {fileID: -1372220166, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 590b8a1359c65429093dd26803389ce8, type: 2}
+    jelly: 0
+    background: 0
+    id: 1
+    connectClickSounds: []
+    openOrder: 3
+  - icon: {fileID: 1526004605, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: d3d66c551f35e45eebfc7201032908be, type: 2}
+    jelly: 0
+    background: 0
+    id: 2
+    connectClickSounds: []
+    openOrder: 2
+  - icon: {fileID: -355732693, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 73178398ad7614a639e882c6f96f5e18, type: 2}
+    jelly: 0
+    background: 0
+    id: 3
+    connectClickSounds: []
+    openOrder: 1
+  - icon: {fileID: -1405511578, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: d4408240729894c71977a2025c616c82, type: 2}
+    jelly: 0
+    background: 0
+    id: 4
+    connectClickSounds: []
+    openOrder: 5
+  - icon: {fileID: 127043366, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 9cb1b450722144b26aa5dd86074f7ae8, type: 2}
+    jelly: 0
+    background: 0
+    id: 5
+    connectClickSounds: []
+    openOrder: 8
+  - icon: {fileID: 726734361, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 336f81a2e76e1437ba238ec78dc1ba91, type: 2}
+    jelly: 0
+    background: 0
+    id: 6
+    connectClickSounds: []
+    openOrder: 4
+  - icon: {fileID: 988252514, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 76496f0bd2f1f41548c2bf277bffcbd6, type: 2}
+    jelly: 0
+    background: 0
+    id: 7
+    connectClickSounds: []
+    openOrder: 10
+  - icon: {fileID: -185221933, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 711ee67de10a644dab7d269b140f5ffe, type: 2}
+    jelly: 0
+    background: 0
+    id: 8
+    connectClickSounds: []
+    openOrder: 9
+  - icon: {fileID: -1414871799, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 110ae0c8b582c448eaf05df16112b3d1, type: 2}
+    jelly: 0
+    background: 0
+    id: 9
+    connectClickSounds: []
+    openOrder: 7
+  - icon: {fileID: 728089961, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: c8a850ab64a3f4e53ae10dab2a61ce99, type: 2}
+    jelly: 0
+    background: 0
+    id: 10
+    connectClickSounds: []
+    openOrder: 6
+  - icon: {fileID: 828581965, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 9b69109edbeda423e803ecd7b447606b, type: 2}
+    jelly: 0
+    background: 0
+    id: 11
+    connectClickSounds: []
+    openOrder: 11
+  backgroundSkins:
+  - icon: {fileID: -177343736, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 826b1507077a21f438de6a1d758e6759, type: 2}
+    jelly: 0
+    background: 1
+    id: 0
+    connectClickSounds: []
+    openOrder: 0
+  - icon: {fileID: -98596079, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 970e78c6571994b98987bacf93d40a45, type: 2}
+    jelly: 0
+    background: 1
+    id: 1
+    connectClickSounds: []
+    openOrder: 3
+  - icon: {fileID: 1971984094, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 1d6981fdd926347d6845623dc48c1538, type: 2}
+    jelly: 0
+    background: 1
+    id: 2
+    connectClickSounds: []
+    openOrder: 11
+  - icon: {fileID: 1203043741, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 76771cc1262cc47a49d06f8902711df4, type: 2}
+    jelly: 0
+    background: 1
+    id: 3
+    connectClickSounds: []
+    openOrder: 5
+  - icon: {fileID: -469007234, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 747ddda2a801048cd9d2e6a4a9d10d0b, type: 2}
+    jelly: 0
+    background: 1
+    id: 4
+    connectClickSounds: []
+    openOrder: 6
+  - icon: {fileID: -1461676932, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 4d534caf5a0e44d8fa31d173cc4fe73d, type: 2}
+    jelly: 0
+    background: 1
+    id: 5
+    connectClickSounds: []
+    openOrder: 1
+  - icon: {fileID: 1904099821, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 297e8ae5fae1f449db56baffc48ef867, type: 2}
+    jelly: 0
+    background: 1
+    id: 6
+    connectClickSounds: []
+    openOrder: 2
+  - icon: {fileID: -55170652, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 4a9fa39bf8e104319af0148ee2c2b2c1, type: 2}
+    jelly: 0
+    background: 1
+    id: 7
+    connectClickSounds: []
+    openOrder: 8
+  - icon: {fileID: 940772128, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: e19285957512b489a9ccb43c6526291c, type: 2}
+    jelly: 0
+    background: 1
+    id: 8
+    connectClickSounds: []
+    openOrder: 4
+  - icon: {fileID: 1126352404, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: e7bcdf93f903e4f3fb288bc039e0fc62, type: 2}
+    jelly: 0
+    background: 1
+    id: 9
+    connectClickSounds: []
+    openOrder: 7
+  - icon: {fileID: -587055799, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: f6bb983ffdbfd4799bfa4063887be16b, type: 2}
+    jelly: 0
+    background: 1
+    id: 10
+    connectClickSounds: []
+    openOrder: 9
+  - icon: {fileID: -663834016, guid: a65cbcebd04c64d4f959366591a82c42, type: 3}
+    title: 
+    material: {fileID: 2100000, guid: 5d91e45460f3a4ed8bbb6067f3605ff2, type: 2}
+    jelly: 0
+    background: 1
+    id: 11
+    connectClickSounds: []
+    openOrder: 10
+--- !u!114 &2981779497927334715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2981779497927334718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8c2868f267014fb19eac9ed63d8b504, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  brightness: 0.8
